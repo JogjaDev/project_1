@@ -1,2 +1,3 @@
-coba.txt
-index.php
+<?php
+echo "Hello Wolrds"; 
+?>
